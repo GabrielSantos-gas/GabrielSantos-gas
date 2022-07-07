@@ -1,8 +1,8 @@
 ## Oi eu sou a Gabriel Santos!
 <div align="center">
   <a href="https://github.com/GabrielSantos-gas">
-  <img left="20em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos-gas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img left="20em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos-gas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em"  src="https://github-readme-stats.vercel.app/api?username=gabrielsantos-gas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img left="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos-gas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
