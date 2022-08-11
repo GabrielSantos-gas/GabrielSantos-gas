@@ -1,4 +1,4 @@
-## Oi eu sou a Gabriel Santos!
+## Oi eu sou o Gabriel Santos!
 <div align="center">
   <a href="https://github.com/GabrielSantos-gas">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos-gas&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
