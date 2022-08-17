@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/GabrielSantos-gas">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos-gas&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
-  <img left="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos-gas&layout=compact&langs_count=10&theme=dark"/>
+  <img left="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos-gas&layout=compact&langs_count=3000&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
